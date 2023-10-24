@@ -1,0 +1,19 @@
+.banner {
+  background-image: url(../../image/background.webp);
+  color: #black;
+  padding: 120px 0px;
+  background-size: cover;
+  background-position: center;
+}
+.banner h1 {
+  color: white;
+  font-size: 50px;
+  opacity: 0.9;
+}
+.banner h2 {
+  border-radius: 30px;
+  font-size: 30px;
+  font-weight: lighter;
+  color: white;
+  margin-bottom: 40px;
+}
